@@ -1,6 +1,7 @@
 # Polar-Wade
  A script that allows players to see what hiests are available
 
+DISCORD: https://discord.gg/polar
 
 First Menu
 ![image](https://user-images.githubusercontent.com/102779658/227052215-04b472d3-6fa7-4e9b-83bb-81a9babe1ba3.png)
